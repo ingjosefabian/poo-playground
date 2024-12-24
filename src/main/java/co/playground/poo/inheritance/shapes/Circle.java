@@ -1,5 +1,8 @@
 package co.playground.poo.inheritance.shapes;
 
+/**
+ * Circle shape.
+ */
 public class Circle extends Shape {
 
     private float radius;

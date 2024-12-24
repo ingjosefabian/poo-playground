@@ -1,5 +1,8 @@
 package co.playground.poo.inheritance.shapes;
 
+/**
+ * Square shape.
+ */
 public class Square extends Shape {
 
     private double width;
