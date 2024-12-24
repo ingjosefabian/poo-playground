@@ -1,5 +1,8 @@
 package co.playground.poo.inheritance.shapes;
 
+/**
+ * Base shape.
+ */
 public abstract class Shape {
 
     public String name;

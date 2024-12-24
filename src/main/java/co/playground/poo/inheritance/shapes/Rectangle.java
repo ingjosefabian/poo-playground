@@ -1,5 +1,8 @@
 package co.playground.poo.inheritance.shapes;
 
+/**
+ * Rectangle shape.
+ */
 public class Rectangle extends Shape {
 
     private double length;
